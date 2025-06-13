@@ -29,10 +29,32 @@ body{
     color: rgba(255, 255, 255, 0.826);
 }
 
+.cont-crr{
+    width: 20vw;
+}
 
 .playfair-display {
   font-family: "Playfair Display", serif;
   font-optical-sizing: auto;
   font-weight: 400;
   font-style: normal;
+}
+.contenedor{
+    width: 100vw;
+    background-color: #ffffff1b;
+    position: absolute;
+}
+
+.cont-icons{
+    margin: 5% 22% 10% 22%;
+    background-color: #1c2949bd;
+    justify-content: center;
+    border: solid;
+    display: flex;
+}
+
+.img-icons{
+    width: 3vw;
+    margin: 10px;
+    height: auto;
 }
